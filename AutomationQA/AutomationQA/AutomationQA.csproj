@@ -67,9 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FirstPage\FirstPage.cs" />
+    <Compile Include="FirstPage Open and Navigate\FirstPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SecondPage\SecondPage.cs" />
+    <Compile Include="SecondPage Do a click and Print\SecondPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
