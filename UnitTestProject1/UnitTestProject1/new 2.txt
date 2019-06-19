@@ -1,0 +1,10 @@
+SELECT * FROM tabelax WHERE condição = coluna;
+
+DELETE FROM tabelax WHERE condição = coluna;
+
+Insert INTO tabelax (COLUNA) VALUE (VALOR):
+
+UPDATE tabelax set coluna = valor WHERE coluna = filtro;
+
+SELECT * FROM tabelax x 
+JOIN tabelay y ON x.id = y.x_id;
