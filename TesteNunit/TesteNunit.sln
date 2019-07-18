@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteNunit", "TesteNunit\TesteNunit.csproj", "{6F625B3B-262C-4C61-A4FE-D2CC204CBE53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprimorandoConhecimento", "AprimorandoConhecimento\AprimorandoConhecimento.csproj", "{1A5F9377-FD82-419B-B483-B8EE3A8E80BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6F625B3B-262C-4C61-A4FE-D2CC204CBE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F625B3B-262C-4C61-A4FE-D2CC204CBE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F625B3B-262C-4C61-A4FE-D2CC204CBE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5F9377-FD82-419B-B483-B8EE3A8E80BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5F9377-FD82-419B-B483-B8EE3A8E80BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5F9377-FD82-419B-B483-B8EE3A8E80BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5F9377-FD82-419B-B483-B8EE3A8E80BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
